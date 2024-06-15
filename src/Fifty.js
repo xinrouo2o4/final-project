@@ -88,7 +88,7 @@ const Fifty = () => {
       <br /><br /><br /><br />
 
       <img
-        src="https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/291737005_5104614599658537_6982183676887795254_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RKvFMTbiSsIQ7kNvgEzIvTv&_nc_ht=scontent-tpe1-1.xx&oh=00_AYAXzKPRMesWovvapGTkoByxJ5EKmn_XxY-kpNbBk-IN9w&oe=666BA408"
+        src="https://i.klog.tw/media_attachments/files/110/146/277/380/445/755/original/aac5d02da3e0c025.jpeg"
         alt="Fifty Image"
         style={{ width: '250px', height: '250px', objectFit: 'cover', borderRadius: '100%' }}
       />

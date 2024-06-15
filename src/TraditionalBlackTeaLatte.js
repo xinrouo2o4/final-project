@@ -29,7 +29,7 @@ const TraditionalBlackTeaLatte = () => {
           <Image
             width="100%"
             // src="https://s.yimg.com/ny/api/res/1.2/VyrVNcegdABzNuH1eADlVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTk2MA--/https://media.zenfs.com/zh-tw/girlstalk_437/4c203c75e4dd0e6c430ab3057f3419b1"
-            src="https://scontent.ftpe4-1.fna.fbcdn.net/v/t39.30808-6/428626067_799298862224453_2539750348538406914_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=sp0JXh28LroQ7kNvgFjV_Gb&_nc_ht=scontent.ftpe4-1.fna&oh=00_AYD9gFGmqFgCMQU-TXNWZUM50G4IX7tbz3_HaIxSa_J4XA&oe=666CCEA0"
+            src="https://i.ibb.co/s3j3ZWT/IMG-7962.jpg"
           />
         </Col>
         <Col span={12} style={{ marginTop: '60px' }}>

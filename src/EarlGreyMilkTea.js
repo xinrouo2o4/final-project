@@ -29,7 +29,7 @@ const EarlGreyMilkTea = () => {
           <Image
             width="100%"
             // src="https://s.yimg.com/ny/api/res/1.2/VyrVNcegdABzNuH1eADlVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTk2MA--/https://media.zenfs.com/zh-tw/girlstalk_437/4c203c75e4dd0e6c430ab3057f3419b1"
-            src="https://scontent.ftpe4-1.fna.fbcdn.net/v/t39.30808-6/428613327_799298852224454_6774021704031264744_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uiFNiUP376EQ7kNvgF3zrKV&_nc_ht=scontent.ftpe4-1.fna&oh=00_AYAK9jGe4l0FOh6Mv2uTPFyh2ctK3zMGqUYZEautIymj6Q&oe=666CB392"
+            src="https://i.ibb.co/chYrsbG/IMG-7961.jpg"
           />
         </Col>
         <Col span={12} style={{ marginTop: '60px' }}>

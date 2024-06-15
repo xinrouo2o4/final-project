@@ -69,7 +69,7 @@ const Milk = () => {
 
       <br /><br /><br /><br />
       <img
-        src="https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/438884395_914640660458660_2859848178800522535_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ZfP5Q9_gPkUQ7kNvgFX8dBE&_nc_ht=scontent-tpe1-1.xx&oh=00_AYDWDcIWy7MYeGPkuFCpKXQrQ9HcNDn7P6AVahc-8cBG2Q&oe=666B81E8"
+        src="https://i.ibb.co/yy4QKXn/20240304-033752-U25889-M936602-2302.jpg"
         alt="Milk Image"
         style={{ width: '250px', height: '250px', objectFit: 'cover', borderRadius: '100%' }}
       />
@@ -109,7 +109,16 @@ const Milk = () => {
         {showImage && (
           <div style={{ marginTop: '24px' }}>
             <img
-              src="https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/393587841_803079768493675_6319064548433983532_n.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TEew09YViXUQ7kNvgEVd7hO&_nc_ht=scontent-tpe1-1.xx&oh=00_AYAl8-aljcrUtFsMjN2qvR1AH7uoI86gzyKeX4JaDKZU7g&oe=666BA6D4" 
+              src="https://i.ibb.co/YDX7zFs/North-Milk-Sha-Menu.png" 
+              style={{ width: '100%', maxWidth: '600px' }}
+            />
+          </div>
+        )}
+
+        {showImage && (
+          <div style={{ marginTop: '24px' }}>
+            <img
+              src="https://i.ibb.co/4tf1Sst/Milk-Sha-Menu.png" 
               style={{ width: '100%', maxWidth: '600px' }}
             />
           </div>
@@ -156,7 +165,7 @@ const Milk = () => {
           style={{
             width: 240,
           }}
-          cover={<img alt="example" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/430934052_885102160079177_7980052370007733267_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WHeLerR8XawQ7kNvgHTuVNF&_nc_ht=scontent-tpe1-1.xx&oh=00_AYCjmKJJ1HZ3xrjFIIlWUXYfhPsHgfUaLmFI4Sfz2zq6tg&oe=666B9A19" style={{ height: '300px', objectFit: 'cover' }} />}
+          cover={<img alt="example" src="https://www.milksha.com/upload/image/%E3%80%8A%E5%9C%96%E4%B8%80%E3%80%8B%E5%A8%9C%E6%9D%AF%E7%B4%85%E8%8C%B6_%E6%8B%BF%E9%90%B5%20%E4%B8%BB%E8%A6%96%E8%A6%BA%20.jpg" style={{ height: '300px', objectFit: 'cover' }} />}
           onClick={() => navigate('/Nabe')}
         >
           <Meta title="#迷客夏" description="娜杯紅茶拿鐵" />

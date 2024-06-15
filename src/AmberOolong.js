@@ -29,7 +29,7 @@ const AmberOolong = () => {
           <Image
             width="100%"
             // src="https://s.yimg.com/ny/api/res/1.2/VyrVNcegdABzNuH1eADlVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTk2MA--/https://media.zenfs.com/zh-tw/girlstalk_437/4c203c75e4dd0e6c430ab3057f3419b1"
-            src="https://scontent.ftpe4-1.fna.fbcdn.net/v/t39.30808-6/428618154_799298835557789_784221014608511809_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Jbv9BG4ASj8Q7kNvgFoiz96&_nc_ht=scontent.ftpe4-1.fna&oh=00_AYCxgO9wzlne5i4KlooWXROVpmXV4Dbax6FJFxDNI8CdYw&oe=666CD19A"
+            src="https://i.ibb.co/GMwsJ0K/IMG-7960.jpg"
           />
         </Col>
         <Col span={12} style={{ marginTop: '60px' }}>
